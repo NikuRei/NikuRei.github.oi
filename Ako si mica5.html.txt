@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+         <HEAD>
+		        <title>My hobbies</title>
+				
+			
+
+		 </head> 	
+		 
+		  <BODY>
+		 
+		 <header style="font-size:20px; font-family:Lucida Handwriting; color:#522d80; text-align:center; padding:10px"/>
+		      <h1>GALLERY</h1>
+			  </header>
+			  
+			   <center><p>   <a href="ako si mica2.html">Profile</a> | <a href="Ako si mica3.html">HOBBIES</a> | <a href="Ako si Mica4.html">LIKES/DISLIKES</a> | <a href="#">GALLERY</a> </p></center>
+			  
+			   <style>
+       body {background-image: url('file:///C:/Users/YAMSON/Downloads/Micalla html/lsrfm ot5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+   </style>
+   
+
+  
+		</body>	  
